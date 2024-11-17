@@ -27,7 +27,9 @@ A Windows desktop application that creates a customizable overlay window for dis
 ## 📸 Screenshots
 
 <p align="center">
-
+<img src="assets/MainForm.png" width="45%" alt="Main Interface"/>
+  <img src="assets/SettingsForm.png" width="20%" alt="Settings Interface"/>
+  <img src="assets/SystemTray.png" width="20%" alt="Tray Interface"/>
 </p>
 
 ## 🤝 Contributing
